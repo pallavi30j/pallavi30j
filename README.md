@@ -128,6 +128,16 @@ A marketplace for buying and selling within a campus community, with separate bu
 
 ---
 
+## LeetCode Progress
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Pallavi_Jangam?theme=dark&font=Merriweather)](https://leetcode.com/u/Pallavi_Jangam/)
+
+</div>
+
+---
+
 ## Languages
 
 English (Fluent) · Hindi (Fluent) · Telugu (Native)
