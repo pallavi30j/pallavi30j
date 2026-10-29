@@ -30,16 +30,14 @@ My main focus is **Java and full-stack development**, backed by a strong groundi
 
 ## 🛠️ Tech Stack
 
-| Area | Technologies |
-|------|--------------|
-| **Languages** | Java, JavaScript, Python, SQL |
-| **Frontend** | HTML, CSS, React.js, Leaflet.js |
-| **Backend** | Spring Boot, Spring Security, Node.js, REST APIs, JWT Authentication, Socket.io |
-| **Databases** | MySQL, Redis |
-| **Cloud** | AWS: EC2, S3, IAM, VPC, CloudWatch |
-| **AI / ML Concepts** | LLMs, RAG (Retrieval-Augmented Generation), NLP |
-| **Tools** | Git, GitHub, Postman, VS Code, Vercel, Cloudinary |
-| **Core Skills** | Data Structures & Algorithms, Object-Oriented Programming, Problem Solving |
+- **Languages:** Java, JavaScript, Python, SQL
+- **Frontend:** HTML, CSS, React.js, Leaflet.js
+- **Backend:** Spring Boot, Spring Security, Node.js, REST APIs, JWT Authentication, Socket.io
+- **Databases:** MySQL, Redis
+- **Cloud:** AWS (EC2, S3, IAM, VPC, CloudWatch)
+- **AI / ML Concepts:** LLMs, RAG (Retrieval-Augmented Generation), NLP
+- **Tools:** Git, GitHub, Postman, VS Code, Vercel, Cloudinary
+- **Core Skills:** Data Structures & Algorithms, Object-Oriented Programming, Problem Solving
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
