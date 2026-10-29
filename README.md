@@ -7,6 +7,7 @@
 B.Tech in Computer Science (Cloud Technology & Mobile Applications), Jain University, Bengaluru
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Pallavi__Jangam-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Pallavi_Jangam/)
 [![Email](https://img.shields.io/badge/Email-pallavijangam05%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pallavijangam05@gmail.com)
 
 </div>
@@ -123,7 +124,7 @@ A marketplace for buying and selling within a campus community, with separate bu
 - **Cloud Computing Certification (Coursera):** covered fundamental cloud concepts and technologies.
 - **Appreciation Award (Grinova):** recognized for contribution to *HealthShield: AI-Powered Cybersecurity Framework for Digital Healthcare*.
 - **Adobe Hackathon:** participated as part of a team and worked on a technical solution.
-- **LeetCode:** solved 100+ problems, strengthening data structures, algorithms, and problem-solving skills.
+- **[LeetCode](https://leetcode.com/u/Pallavi_Jangam/):** solved 100+ problems, strengthening data structures, algorithms, and problem-solving skills.
 
 ---
 
@@ -140,3 +141,4 @@ I'm open to entry-level Software Developer and cloud-related opportunities.
 - Email: [pallavijangam05@gmail.com](mailto:pallavijangam05@gmail.com)
 - LinkedIn: [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
 - GitHub: [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- LeetCode: [leetcode.com/u/Pallavi_Jangam](https://leetcode.com/u/Pallavi_Jangam/)
